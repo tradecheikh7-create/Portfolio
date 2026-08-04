@@ -5,7 +5,7 @@ const siteInfoRef = doc(db, 'settings', 'site')
 
 export const DEFAULT_SITE_INFO = {
   heroTagline:
-    "Développeur Web & Mobile et UI/UX Designer basé à Dakar. Je construis des identités et produits numériques qui restent en tête.",
+    "Développeur Front-End et UI/UX Designer, Graphiste, basé à Dakar. Je construis des identités et produits numériques qui restent en tête.",
   availabilityText: 'Disponible pour de nouveaux projets',
   aboutText:
     "J'allie la rigueur du développement front-end à une sensibilité d'image pour faire exister des interfaces singulières — de l'idée à la dernière micro-interaction.",
